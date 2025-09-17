@@ -1,0 +1,90 @@
+﻿  cr11.BankProject.cpp
+E:\Repos\cr11.BankProject\cr11.BankProject\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsUser.h(198,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'cr11.BankProject.cpp')
+      E:\Repos\cr11.BankProject\cr11.BankProject\clsUser.h(26,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsInputValidate.h(120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsInputValidate.h(124,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'cr11.BankProject.cpp')
+      E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsTransferScreen.h(42,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsAddNewUserScreen.h(116,17): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsUpdateUserScreen.h(117,17): warning C4129: 'R': unrecognized character escape sequence
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'cr11.BankProject.cpp')
+  
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+E:\Repos\cr11.BankProject\cr11.BankProject\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+E:\Repos\cr11.BankProject\cr11.BankProject\clsUser.h(360,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  cr11.BankProject.vcxproj -> E:\Repos\cr11.BankProject\x64\Debug\cr11.BankProject.exe
